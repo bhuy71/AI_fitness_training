@@ -8,4 +8,6 @@ How to run this code:
 
 ### Mediapipe:
 
-    In order to run Mediapipe code, you only need run : streamlit run UI.py, then the interface will appear and you can use with camera in real time or upload your videos and download the processed videos if you want.
+    In order to run Mediapipe code, you only need run : streamlit run UI.py
+    
+    Then the interface will appear and you can use with camera in real time or upload your videos and download the processed videos if you want.
