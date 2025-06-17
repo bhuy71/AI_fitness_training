@@ -1,0 +1,11 @@
+av
+matplotlib
+mediapipe
+numpy
+opencv-python
+pandas
+pycocotools
+scikit-learn
+streamlit
+tensorflow
+tqdm
