@@ -1,0 +1,6 @@
+opencv-python
+imread-from-url
+onnxruntime-gpu
+numpy
+tensorflow
+onnxruntime
