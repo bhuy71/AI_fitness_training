@@ -36,3 +36,4 @@ How to run this code:
         │   ├── yolov5s6.onnx
         │   └── pushup_squat_lstm_model.h5
         ├── hrnet_requirements.txt
+    Link to download models folder: "https://drive.google.com/drive/folders/1PbrVLusCza-Yt7T1EB2NkJVJmghsdw4L?usp=sharing"
